@@ -18,6 +18,8 @@ php artisan key:generate
 
 ## 📁 Infos complémentaires
 
+
 - Laravel 10
 - Utilise SQLite pour les objets connectés
 - Utilise MySQL pour les comptes utilisateurs, boutique, etc.
+
